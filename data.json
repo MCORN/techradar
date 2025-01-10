@@ -28,6 +28,13 @@
     "description": "Backend services"
   },
   {
+    "name": "Kotlin",
+    "ring": "assess",
+    "quadrant": "languages & frameworks",
+    "isNew": "FALSE",
+    "description": "Backend services"
+  },
+  {
     "name": "JavaScript",
     "ring": "adopt",
     "quadrant": "languages & frameworks",
